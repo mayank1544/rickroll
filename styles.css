@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background: linear-gradient(skyblue,skyblue);
+}
+
+h1{
+    margin: 150px;
+    text-align: center;
+    font: italic;
+}
